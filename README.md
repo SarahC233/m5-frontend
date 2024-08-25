@@ -71,6 +71,15 @@ git push origin your-branch-name
 
 5. **Create pull request for review**
 
+## Maps Demo
+
+Heres a showcase of the two maps features 'find a station' and 'journey planner' along with custom pins and marker clustering.
+
+
+
+https://github.com/user-attachments/assets/af446637-d37a-490e-a265-d3d66e9c2492
+
+
 
 ## Routing
 
